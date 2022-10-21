@@ -1,4 +1,4 @@
-# Whac-A-Mole!
+# Memory
 
 This project is [my take](https://hashlog5.github.io/Memory/) on
 
